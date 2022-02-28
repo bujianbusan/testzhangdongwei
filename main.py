@@ -9,3 +9,4 @@ print('GPU', tf.config.list_physical_devices('GPU'))
 a = tf.constant(2.)
 b = tf.constant(3.)
 print(a*b)
+# 这是一个注释
